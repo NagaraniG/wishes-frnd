@@ -45,8 +45,6 @@ gem 'daemons'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# user authentication
-# gem 'devise', '4.4.0'
 
 # for database
 gem 'pg', '0.18'
